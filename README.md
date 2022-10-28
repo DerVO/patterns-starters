@@ -11,3 +11,4 @@ Ressourcen:
 
 * Finite State Machine https://xstate.js.org/docs/ - https://stately.ai/pricing (macht schöne Graphen)
 * https://immerjs.github.io/immer/ COW-Pattern effiente Doplizierung von Objekten mit kleiner Änderung (statt `{... oldObj}` Syntax)
+* https://refactoring.guru/
